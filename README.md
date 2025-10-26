@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#8a2be2;">Waqar Asghar</span></h1>
+<h1 align="center"> <span style="color:#8a2be2;">⚡Waqar Asghar⚡</span></h1>
 <h3 align="center">Cybersecurity | DevSecOps | Cloud Security Engineer</h3>
 <h3 align="center">Penetration Tester</h3>
 
